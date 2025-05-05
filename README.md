@@ -63,7 +63,6 @@ Make sure you have `financial_news.csv` in the correct format.
 
 See `requirements.txt`. Key packages:
 - `nltk`, `scikit-learn`, `gensim`, `tensorflow`, `transformers`, `torch`
-- 
 
 ##  License
 
